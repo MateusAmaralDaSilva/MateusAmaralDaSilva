@@ -81,4 +81,4 @@ Me chamo Mateus Amaral da Silva, tenho 20 anos, nascido em Minas Gerais, Belo Ho
         style="padding-right: 10px;"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusAmaralDaSilva&layout=compact&theme=neon&custom_title=Linguagens no GitHub&langs_count=1"
     />
-<p>
+</p>
