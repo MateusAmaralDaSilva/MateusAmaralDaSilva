@@ -3,13 +3,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ffff&background=FFFFFF00&width=435&lines=Programando+e+aprendendo)](https://git.io/typing-svg)
 
-## <span style="color: #f67af4;">Desenvolvedor back end</span>
+## `Desenvolvedor back end`
 
 Me chamo Mateus Amaral da Silva, tenho 20 anos, nascido em Minas Gerais, Belo Horizonte. Fiz meu ensino médio com técnico integrado no IFMG me formando como técnico em informática e em seguida entrei na UFMG para me graduar em Sistemas de Informações. Tenho habilidades em criação e gerenciamento de bancos de dados, domínio em python e c++ e conhecimento de linguagens de marcação como html, css e md. No momento estou aprendendo sobre IA e ciência de dados.
 
 ---
 
-### <span style="color: #f67af4;"> 💻 Tecnologias e Linguagens </span>
+### 💻 Tecnologias e Linguagens
 
 <p>
     <img
@@ -65,7 +65,7 @@ Me chamo Mateus Amaral da Silva, tenho 20 anos, nascido em Minas Gerais, Belo Ho
 
 ---
 
-### <span style="color: #f67af4;"> 📊Estátisticas </span>
+### 📊 Estátisticas 
 <p>
     <img
         align="left"
@@ -79,6 +79,6 @@ Me chamo Mateus Amaral da Silva, tenho 20 anos, nascido em Minas Gerais, Belo Ho
         alt="Github Stats"
         height="200"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusAmaralDaSilva&layout=compact&theme=neon&custom_title=Linguagens no GitHub&langs_count =1"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusAmaralDaSilva&layout=compact&theme=neon&custom_title=Linguagens no GitHub&langs_count=1"
     />
 <p>
