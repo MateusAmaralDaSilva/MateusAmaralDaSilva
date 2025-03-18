@@ -63,6 +63,8 @@ Me chamo Mateus Amaral da Silva, tenho 20 anos, nascido em Minas Gerais, Belo Ho
     /><br>
 </p>  
 
+---
+
 ### <span style="color: #f67af4;"> 📊Estátisticas </span>
 <p>
     <img
