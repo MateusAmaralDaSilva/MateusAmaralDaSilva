@@ -1,7 +1,7 @@
 # 👨🏾‍💻 <span style="color: #00FFFF;">Mateus Amaral da Silva</span>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ffff&background=FFFFFF00&width=435&lines=Aprendendo+programando)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ffff&background=FFFFFF00&width=435&lines=Aprendendo+e+programando)](https://git.io/typing-svg)
 
 ## `Desenvolvedor back end`
 
