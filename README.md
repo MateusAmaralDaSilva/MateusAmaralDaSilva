@@ -8,14 +8,14 @@
 Me chamo Mateus Amaral da Silva, tenho 20 anos, nascido em Minas Gerais, Belo Horizonte. Fiz meu ensino médio com técnico integrado no IFMG me formando como técnico em informática e em seguida entrei na UFMG para me graduar em Sistemas de Informações. Tenho habilidades em criação e gerenciamento de bancos de dados, domínio em python e c++ e conhecimento de linguagens de marcação como html, css e md. No momento estou aprendendo sobre IA e ciência de dados.
 
 ---
-
+<!--
 ### 💻 Tecnologias e Linguagens
 
 <p>
     <img
         align="left"
         alt="Python"
-        height="30"
+        height="3"
         style="padding-right: 10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
     />
@@ -62,7 +62,7 @@ Me chamo Mateus Amaral da Silva, tenho 20 anos, nascido em Minas Gerais, Belo Ho
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"   
     /><br>
 </p>  
-
+ 
 ---
-
+-->
 
